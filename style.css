@@ -53,8 +53,7 @@ p{
     color: rgb(34, 36, 34);
 }
 .btn-primary{
-    background-image:linear-gradient(to top, rgba(45, 160, 189, 0.548) 0%, #83c7e2  100%);
-    border-color: rgb(6, 41, 116);
+    background-color: #11999e;
 }
 .bottom-container {
     padding: 50px 0 20px;
